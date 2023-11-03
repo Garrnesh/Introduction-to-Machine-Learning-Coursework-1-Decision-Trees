@@ -19,9 +19,9 @@ https://github.com/Garrnesh/Intro-to-ML.git
 As per the spec sheet, we assume that the machine is installed with **Numpy**, **Matplotlib** and **Standard Python Libraries**
 1. Open `Decision_Tree.ipynb`
 2. Run the Jupyter Notebook, to achieve the results.
-   2.1 If the lab computers do not have the required extensions installed, Visual Studio Code will auto-prompt for the installation of these     
-       extensions. These extensions include: Jupyter, Python
-   2.2 Ensure that the python environment is applied to the code before running the file
+3. If the lab computers do not have the required extensions installed, Visual Studio Code will auto-prompt for the installation of these     
+extensions. These extensions include: Jupyter, Python
+4. Ensure that the python environment is applied to the code before running the file
 
 ## Contributions
 - [S Jivaganesh](https://github.com/Garrnesh)
