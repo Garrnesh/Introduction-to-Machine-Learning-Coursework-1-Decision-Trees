@@ -9,6 +9,7 @@ This repository contains the following files:
 - [noisy_dataset.txt](https://github.com/Garrnesh/Intro-to-ML/blob/main/noisy_dataset.txt) contains the noisy dataset provided by the project spec.
 - [clean_decision_tree.png](https://github.com/Garrnesh/Intro-to-ML/blob/main/clean_decision_tree.png) image of a decision tree produced using the clean dataset.
 - [noisy_decision_tree.png](https://github.com/Garrnesh/Intro-to-ML/blob/main/noisy_decision_tree.png) image of a decision tree produced using the noisy dataset.
+- [COMP60012_Coursework_1_Report.pdf](https://github.com/Garrnesh/Intro-to-ML/blob/main/noisy_decision_tree.png) image of a decision tree produced using the noisy dataset.
 
 ## Installation Instructions
 1. Clone the repository
